@@ -1,0 +1,9 @@
+# Eclipse 프로젝트 설정 파일
+.project
+.classpath
+.settings/
+
+# 빌드 결과물
+target/
+build/
+bin/
