@@ -6,6 +6,7 @@ public class HelloWord {
 		
 		System.out.println("==== [Project A] ====");
 
+		System.out.println("==== [Project A] 1. A 소스 추가 ====");
 	}
 
 }
